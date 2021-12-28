@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <name>Товар 1</name>
+        <description>Описание 1</description>
+    </product>
+    <product>
+        <name>Товар 2</name>
+        <description>Описание 1</description>
+    </product>
+    <product>
+        <name>Товар 2</name>
+        <description>Описание 1</description>
+    </product>
+</products>
